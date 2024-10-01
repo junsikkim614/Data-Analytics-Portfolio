@@ -1,6 +1,6 @@
 # Jun Sik's Data Analytics Portfolio
 
-**About Me** 
+### About Me
 
 I am Jun Sik Kim, a senior at Dickinson College pursuing a double major in Quantitative Economics and Data Analytics with a Mathematics Minor, set to graduate in May 2025. My academic background has equipped me with strong analytical skills and technical proficiency in Python, SQL, and Tableau. I've applied these skills to various projects focusing on socioeconomic trends and data visualization.
 
