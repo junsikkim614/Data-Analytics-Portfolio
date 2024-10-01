@@ -1,7 +1,3 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme
-
 # Jun Sik's Data Analytics Portfolio
 
 ### About Me
