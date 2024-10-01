@@ -9,7 +9,7 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 ------------
 
 
-#### [Education Attainment and Home Ownership by Race](https://github.com/junsikkim614/Education-Attainment-and-Home-Ownership-by-Race "Education Attainment and Home Ownership by Race")
+### [Education Attainment and Home Ownership by Race](https://github.com/junsikkim614/Education-Attainment-and-Home-Ownership-by-Race "Education Attainment and Home Ownership by Race")
 ##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations. 
 **Skills used:** Python, Pandas, Data Cleaning, Data Analysis
 
