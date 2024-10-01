@@ -24,7 +24,9 @@ Hi. I'm Jun Sik, a current senior in Dickinson College with a May 2025 graduatio
 - The analysis provides insights into death rates, infection rates, and vaccination progress for different countries and continents.
 - The project includes calculations of death percentages, infection rates relative to population, and tracking of vaccination progress over time.
 - Global numbers are analyzed to show the overall trend of cases and deaths throughout the pandemic 
+
 ------------
+
 ### [COVID Project Tableau Dashboard](https://public.tableau.com/app/profile/jun.sik.kim/viz/CovidDashboard_17273094831420/Dashboard1 "COVID Project Tableau Dashboard")
 ##### This project analyzes global COVID-19 data, focusing on infection rates, death counts, and population impact across different countries and continents. The analysis uses SQL queries to process the data, which is then visualized in a Tableau dashboard for easy interpretation.
  
@@ -34,8 +36,8 @@ Hi. I'm Jun Sik, a current senior in Dickinson College with a May 2025 graduatio
 - The project provides a global overview of COVID-19 cases, deaths, and infection rates.
 - It highlights the countries and continents most affected by the pandemic in terms of total death count and infection rates.
 - The analysis includes time-series data to show the progression of infection rates across different locations.
-------------
 
+------------
 
 ### [Data Cleaning Project : Nashville Housing Dataset](https://github.com/junsikkim614/Data-Cleaning-Project "Data Cleaning Project : Nashville Housing Dataset")
 ##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations.
