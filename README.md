@@ -9,7 +9,8 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 ------------
 
 ### [Education Attainment and Home Ownership by Race](https://github.com/junsikkim614/Education-Attainment-and-Home-Ownership-by-Race "Education Attainment and Home Ownership by Race")
-##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations. 
+This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations. 
+
 **Skills used:** Python, Pandas, Data Cleaning, Data Analysis
 
 **Key findings** : 
@@ -21,7 +22,7 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 
 ### [Customer Purchase Behavior Analysis](https://github.com/junsikkim614/Customer-Purchase-Behavior-Analysis/tree/main "Customer Purchase Behavior Analysis")
 
-##### This project analyzes customer purchasing patterns to classify and predict what products they are likely to buy based on demographic and behavioral factors. The dataset includes customer attributes such as age, gender, purchase history, and payment method, among others.
+This project analyzes customer purchasing patterns to classify and predict what products they are likely to buy based on demographic and behavioral factors. The dataset includes customer attributes such as age, gender, purchase history, and payment method, among others.
 
 **Skills used:** Python, Pandas, Data Cleaning, Classification, Regression, Clustering, Association Rule Mining
 
@@ -34,7 +35,9 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 ------------
 
 ### [COVID Data Exploration in SQL Project](https://github.com/junsikkim614/Covid-Project-Data-Exploration "COVID Data Exploration in SQL Project") 
-##### This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations across different countries and continents. It uses two main datasets: coviddeaths and covidvaccinations, performing various SQL queries to extract insights about the pandemic's impact and vaccination progress 
+
+This project analyzes COVID-19 data, focusing on cases, deaths, and vaccinations across different countries and continents. It uses two main datasets: coviddeaths and covidvaccinations, performing various SQL queries to extract insights about the pandemic's impact and vaccination progress 
+
 **Skills used:** SQL (MySQL), Data Cleaning, Data Analysis, Joins, CTEs, Views, Window Functions 
 
 **Key findings** : 
@@ -45,7 +48,8 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 ------------
 
 ### [COVID Project Tableau Dashboard](https://public.tableau.com/app/profile/jun.sik.kim/viz/CovidDashboard_17273094831420/Dashboard1 "COVID Project Tableau Dashboard")
-##### This project analyzes global COVID-19 data, focusing on infection rates, death counts, and population impact across different countries and continents. The analysis uses SQL queries to process the data, which is then visualized in a Tableau dashboard for easy interpretation.
+
+This project analyzes global COVID-19 data, focusing on infection rates, death counts, and population impact across different countries and continents. The analysis uses SQL queries to process the data, which is then visualized in a Tableau dashboard for easy interpretation.
  
 **Skills used:** SQL (MySQL), Data Analysis, Tableau, Data Visualization
 
@@ -57,7 +61,8 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 ------------
 
 ### [Data Cleaning Project : Nashville Housing Dataset](https://github.com/junsikkim614/Data-Cleaning-Project "Data Cleaning Project : Nashville Housing Dataset")
-##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations.
+
+This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations.
  
 **Skills used:** Python, Pandas, Data Cleaning, Data Analysis, Excel File Handling 
 
