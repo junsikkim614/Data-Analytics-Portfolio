@@ -8,7 +8,6 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 
 ------------
 
-
 ### [Education Attainment and Home Ownership by Race](https://github.com/junsikkim614/Education-Attainment-and-Home-Ownership-by-Race "Education Attainment and Home Ownership by Race")
 ##### This project analyzes education attainment and home ownership trends across different racial groups in the United States. It uses data from various years, focusing on White, Black, and Hispanic populations. 
 **Skills used:** Python, Pandas, Data Cleaning, Data Analysis
@@ -17,6 +16,20 @@ My portfolio demonstrates my ability to clean, analyze, and interpret complex da
 - Educational attainment levels varied significantly among racial groups, with trends changing over time
 - Home ownership percentages showed disparities between racial groups, with White households consistently having higher rates of home ownership compared to Black and Hispanic households
 - The analysis covered multiple years, allowing for the observation of long-term trends in both education and home ownership
+
+------------
+
+### [Customer Purchase Behavior Analysis](https://github.com/junsikkim614/Customer-Purchase-Behavior-Analysis/tree/main "Customer Purchase Behavior Analysis")
+
+##### This project analyzes customer purchasing patterns to classify and predict what products they are likely to buy based on demographic and behavioral factors. The dataset includes customer attributes such as age, gender, purchase history, and payment method, among others.
+
+**Skills used:** Python, Pandas, Data Cleaning, Classification, Regression, Clustering, Association Rule Mining
+
+**Key findings** : 
+- Males are more likely to purchase clothing when discounts are applied, while females show less preference for discounts.
+- Decision Tree Classification outperformed other classification methods in predicting clothing purchases using age, purchase amount, and review ratings.
+- Decision Tree Regression was the most suitable regression model for predicting purchase categories based on demographic and purchasing attributes.
+- K-means clustering revealed that customers' previous purchase amounts are related to their future purchases, suggesting that targeted marketing based on purchase history could be effective
 
 ------------
 
